@@ -1,4 +1,3 @@
-<!--  https://ritik307.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
@@ -6,14 +5,13 @@
 
 <p align="center"> 
  <img src="https://badges.pufler.dev/visits/codingPaulStuart/codingPaulStuart"/> 
- <!-- <img src="https://badges.pufler.dev/years/codingPaulStuart"/> -->
  <img src="https://badges.pufler.dev/repos/codingPaulStuart"/>
  <img src="https://badges.pufler.dev/commits/monthly/codingPaulStuart" />
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/images/laptop.gif" width="20"></h2>
 
-## 🚀 Languages and Tools:
+## 💻 Technology Stack:
 <p align="left"> 
     <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160"_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> </a>
