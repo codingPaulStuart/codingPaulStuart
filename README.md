@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/codingPaulStuart/codingPaulStuart/header.png" />
+<img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/header.png" />
 
 
 
