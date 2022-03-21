@@ -9,9 +9,9 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/codingPaulStuart/codingPaulStuart"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <!-- <img src="https://badges.pufler.dev/years/codingPaulStuart"/> -->
+ <img src="https://badges.pufler.dev/repos/codingPaulStuart"/>
+ <img src="https://badges.pufler.dev/commits/monthly/codingPaulStuart" />
 
 </p>
 
@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
