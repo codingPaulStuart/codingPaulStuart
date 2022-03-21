@@ -13,7 +13,8 @@
 <p align="left"> 
     <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160"_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank"> <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> </a>
-    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
+    <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png"/>
