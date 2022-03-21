@@ -17,9 +17,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft.png"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 </p>
 
 ## 📮 Contact:
