@@ -17,16 +17,17 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
-## 📮 Technology Stack:
+## 📮 Contact:
 <p align="left">
+               
 <a href="mailto: paulstuart1980@gmail.com">
- <img src="https://img.shields.io/badge/-pauls-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-paulstuart1980-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulstuart1980@gmail.com"/>
 </a>
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+ <img src="https://img.shields.io/badge/-paulStuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-stuart-534b34234/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ 
 </p>
 
 
