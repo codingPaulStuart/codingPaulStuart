@@ -1,9 +1,10 @@
 <p align="center">
  
 </p align="center">
+<img align="center" alt="Coding" width="800" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/header2.png" />
 
-<p align="center"> 
+<p align="left"> 
  <img src="https://badges.pufler.dev/visits/codingPaulStuart/codingPaulStuart"/> 
  <img src="https://badges.pufler.dev/repos/codingPaulStuart"/>
  <img src="https://badges.pufler.dev/commits/monthly/codingPaulStuart" />
@@ -18,9 +19,9 @@
 </p>
 
 
-<p align="center">
+<p align="left">
 <a href="mailto: paulstuart1980@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+ <img src="https://img.shields.io/badge/-pauls-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
