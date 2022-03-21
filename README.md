@@ -3,7 +3,7 @@
  <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/header2.png" width="800" />
 </p align="center">
 
-<p align="left"> 
+<p align="center"> 
  <img src="https://badges.pufler.dev/visits/codingPaulStuart/codingPaulStuart"/> 
  <img src="https://badges.pufler.dev/repos/codingPaulStuart"/>
  <img src="https://badges.pufler.dev/commits/monthly/codingPaulStuart" />
@@ -17,7 +17,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
-
+## 📮 Technology Stack:
 <p align="left">
 <a href="mailto: paulstuart1980@gmail.com">
  <img src="https://img.shields.io/badge/-pauls-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
