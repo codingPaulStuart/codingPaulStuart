@@ -24,10 +24,7 @@
  <img src="https://img.shields.io/badge/-paulstuart1980-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulstuart1980@gmail.com"/>
 </a>
  <img src="https://img.shields.io/badge/-paulStuart-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paul-stuart-534b34234/"/>
-</a>
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
- 
+</a> 
 </p>
 
 
