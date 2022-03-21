@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/officel/16/000000/php-logo.png" width="50"/>
 </p>
 
 ## 📮 Contact:
