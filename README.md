@@ -4,22 +4,14 @@
 </p align="center">
 <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/header2.png" />
 
-
-
-<p align="center">
- 
+<p align="center"> 
  <img src="https://badges.pufler.dev/visits/codingPaulStuart/codingPaulStuart"/> 
  <!-- <img src="https://badges.pufler.dev/years/codingPaulStuart"/> -->
  <img src="https://badges.pufler.dev/repos/codingPaulStuart"/>
  <img src="https://badges.pufler.dev/commits/monthly/codingPaulStuart" />
-
 </p>
 
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/images/laptop.gif" width="20"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -40,11 +32,9 @@
 
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
+<a href="mailto: paulstuart1980@gmail.com">
  <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
  <a href="https://twitter.com/ritikhere307">
