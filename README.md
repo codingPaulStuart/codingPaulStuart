@@ -1,6 +1,8 @@
 <p align="center">
  <img align="center" alt="Coding" width="800" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
- <img src="https://github.com/codingPaulStuart/codingPaulStuart/blob/main/header2.png" width="800" />
+ 
+ <div class="tenor-gif-embed" data-postid="15232658" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/matrix-gif-15232658">Matrix GIF</a>from <a href="https://tenor.com/search/matrix-gifs">Matrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 </p align="center">
 
 <p align="center"> 
